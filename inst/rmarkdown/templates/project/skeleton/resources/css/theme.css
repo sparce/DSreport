@@ -59,6 +59,12 @@ h2 {
 
 caption {
   color: black;
+  font-size: 90%;
+}
+
+.caption {
+  color: black;
+  font-size: 90%;
 }
 
 /* unvisited link */
@@ -88,4 +94,10 @@ code {
 
 #author {
   color: white;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  z-index: 0;
 }
